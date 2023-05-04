@@ -39,7 +39,5 @@ fun TransparentHintTextField(
                 color = Color.DarkGray
             )
         }
-
     }
-
 }
